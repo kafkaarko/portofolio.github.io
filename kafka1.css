@@ -1,0 +1,1348 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica;
+}
+
+html{
+    scroll-behavior: smooth;
+    background-image: url(https://cdn.pixabay.com/animation/2023/06/06/06/51/06-51-32-766_512.gif);
+    background-size:cover;
+    margin: 0;
+}
+
+header{
+    justify-content: space-between;
+    display: flex;
+}
+
+
+
+.pala{
+    font-size: bold;
+    margin: 15px;
+    color:#7743DB;
+    font-size: 30px;
+}
+
+.pala:hover{
+    color:#940B92;
+}
+
+span{
+    color:#940B92
+}
+
+span:hover{
+    color:#7743DB
+}
+
+
+
+ .isi ul  {
+    display:flex;
+    gap: 3rem;
+    margin:30px;
+    
+}
+
+.hehea img{
+    /* height: 200px;
+    width: 400px; */
+    
+}
+
+.awalan{
+    display: flex;
+    padding:250px;
+    /* margin:100px     */
+}
+
+.gambarheha{
+    height: 200px;
+    width: 400px;        
+}
+
+.kosong h1{
+    color: azure;
+    
+}
+
+.kosong p{
+    color: azure;
+}
+
+button{
+    height: 50px;
+    width: 150px;
+    border-radius: 15px;
+    background-color: #7743DB;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(92, 255, 255);
+}
+
+
+header{
+    background-color:transparent;
+    min-width: auto;
+    max-width: auto;
+}
+
+.isi ul li{
+    list-style: none;
+}
+
+.isi ul li a{
+    text-decoration: none;
+    background-color: #7743DB;
+    padding:15%;
+    color:white;
+    border-radius:15px;
+}
+
+.isi ul li a:hover{
+    background-color: white;
+    color: #7743DB;
+    transition: 0.5s ease-in-out;
+}
+
+.ini-pertama{
+    border: 1px solid white;
+    padding:20px;
+    margin:;
+    width: 1000px;
+    border-radius: 15px;
+    margin: 90px;
+}
+
+.akuu img{
+    width: 400px;
+    height: 200px;
+    border-radius:50%;
+    margin:20px
+}
+
+.akuu{
+    display: flex;
+
+}
+
+.kata{
+    margin:40px;
+    color:white;
+}
+
+.img img{
+    height:300px;
+    width: 400px;
+    border-radius: 50%;
+}
+
+.pertama{
+    display: flex;
+    align-items: center;   
+}
+
+.me img{
+    width: 300px;
+    height: 200px;
+    border-radius:50%;
+    margin:20px
+}
+
+.kwdua{
+   display: flex;
+   align-items: center;
+   /* padding-left:300px */
+}
+
+.fact{
+    border: 1px solid white;
+    padding:20px;
+    margin:;
+    width: 1000px;
+    border-radius: 15px;
+    margin: 90px;
+    
+}
+
+.beda{
+    /* margin:20px */
+}
+
+.momy{
+    display: flex;
+    align-items: center;
+    
+}
+
+.katak p{
+    color:white;    
+}
+.katak h2{
+    color:white;    
+}
+.momy p{
+    color:white;
+}
+
+.gerak img{
+    border-radius: 50%;
+    width: 400px;
+    height: 300px;
+}
+
+
+  #skill{
+    padding: 90px;
+    
+}
+
+.buat{
+    display: flex;
+}
+
+.namaoo{
+    /* display: flex; */
+    margin: 20px;
+    color:white;
+
+}
+.momo{
+    display: flex;
+}
+.basic-attack{
+    background-color: lightgray;
+    width:300px;
+    /* border:  100px solid red; */
+    padding: 30px;
+    margin: 10px;  
+    height:10px;
+  text-align: center;
+}
+
+.gambarbal{
+    justify-content: center;
+    display: flex;
+}
+
+.penjelasan-sa{
+    justify-content: center;
+    display: flex;
+}
+
+.po a{
+    text-decoration: none;
+    color: black;
+}
+
+.po p{
+    font-size: bold;
+}
+
+.basic-attack:hover{
+    background-color: lightblue;
+    width: 400px;
+    /* border:  100px solid red; */
+    padding: 10px;
+    margin: 10px;  
+    height: px;
+  transition: 0.5s;
+}
+
+.ski{
+    background-color:lightgray;
+    width:300px;
+    background-size: ;
+    /* border:  100px solid red; */
+    padding: 30px;
+    margin: 10px;  
+    height: px;
+  display: ;
+  text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.ski:hover{
+    background-color: lightblue;
+    width: 400px;
+    /* border:  100px solid red; */
+    padding: 10px;
+    margin: 10px;  
+    height: px;
+  transition: 0.5s;
+
+}
+
+
+.gambarrr{
+    justify-content: center;
+    display: flex;
+}
+
+.ulti{
+    background-color: lightgray;
+    width:300px;
+    /* border:  100px solid red; */
+    padding: 30px;
+    margin: 10px;  
+    height:10px;
+  text-align: center;
+}
+
+.gmrult{
+    justify-content: center;
+    display: flex;
+}
+
+.ulti:hover{
+    background-color: lightblue;
+    width: 400px;
+    /* border:  100px solid red; */
+    padding: 10px;
+    margin: 10px;  
+    height: px;
+  transition: 0.5s;
+}
+
+.talent{
+    background-color: lightgray;
+    width:300px;
+    /* border:  100px solid red; */
+    padding: 30px;
+    margin: 10px;  
+    height:10px;
+  text-align: center;
+}
+
+.talent:hover{
+    background-color: lightblue;
+    width:400px;
+    /* border:  100px solid red; */
+    padding: 30px;
+    margin: 10px;  
+    height:10px;
+  transition: 0.5s;
+}
+
+.t{
+    justify-content: center;
+    display: flex;
+}
+.tengah{
+    background-color: lightgray;
+    width:300px;
+    /* border:  100px solid red; */
+    padding: 30px;
+    margin: 10px;  
+    height:10px;
+  text-align: center;
+}
+
+.d{
+    justify-content: center;
+    display: flex;
+}
+
+.center{
+    justify-content: center;
+    display: flex;
+}
+
+.tengah:hover{
+    background-color: lightblue;
+    width:400px;
+    /* border:  100px solid red; */
+    padding: 30px;
+    margin: 10px;  
+    height:10px;
+  transition: 0.5s;
+}
+
+
+.gambarchaarnya{
+        position: relative;
+        width: 200px;
+}
+
+.gambarchar{
+    /* background-color: aqua; */
+    height: 100px;
+}
+
+
+.team{
+    align-items: center;
+    margin:50px
+  
+}
+.kafkaa{
+    display: block;
+  width: 100% ;
+  height: auto;
+  border-radius: 50%;
+  height: 200px;
+}
+
+.text{
+    color: #7743DB;
+    font-size: 20px;
+    position: absolute;
+        top: 50%;
+        left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+
+.tex{
+    color: aqua;
+    font-size: 20px;
+    position: absolute;
+        top: 50%;
+        left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+
+.texk{
+   color: coral;
+    font-size: 20px;
+    position: absolute;
+        top: 50%;
+        left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+
+.textt{
+    color: aquamarine;
+     font-size: 20px;
+     position: absolute;
+         top: 50%;
+         left: 50%;
+     transform: translate(-50%, -50%);
+     -ms-transform: translate(-50%, -50%);
+     font-weight: bold;
+ }
+
+.gambarchaarnya:hover .ovrly{
+    opacity: 1;
+}
+.ovrly{
+    position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%; 
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: transparent;
+  border-radius: 50%;
+  
+}
+
+.gambarchar{
+    
+     
+    
+}
+
+.baru{
+   display: flex;
+   justify-content: center;
+   gap:1rem;
+   background-color: aqua;
+   height: 200px;
+   width: 850px;
+   border-radius: 15px;
+   margin:50px
+  
+}
+
+/* The grid: Four equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+  }
+  
+  /* Style the images inside the grid */
+  .column img {
+    opacity: 0.8; 
+    cursor: pointer; 
+  }
+  
+  .column img:hover {
+    opacity: 1;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* The expanding image container */
+  .container {
+    position: relative;
+    display: none;
+  }
+  
+  /* Expanding image text */
+  #imgtext {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    color: white;
+    font-size: 20px;
+  }
+  
+  /* Closable button inside the expanded image */
+  .closebtn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: white;
+    font-size: 35px;
+    cursor: pointer;
+  }
+
+  .h2{
+    justify-content: center;
+    display: flex;
+  }
+
+  #Mommy{
+    background-color: transparent;
+    max-width: auto;
+  }
+
+  .katoo{
+    /* display: flex;
+    justify-content: space-between; */
+  }
+
+  .mama{
+    justify-content: center;
+    
+  }
+
+   .tod{
+    display: flex;
+    gap: 3rem;
+    /* margin:70px; */
+    justify-content: space-between;
+    
+    
+  }
+
+.popop{
+    /* display: flex; */
+    justify-content: space-between;
+    padding:50px
+}
+
+.abb{
+    background-color: transparent;
+    color:white;
+}
+.abb ul li a{
+    
+    color:white;
+}
+    
+  
+@media screen and (max-width:770px){
+    .pala{
+        font-size: 20px;
+        height: 30px;
+        width: auto;
+    }
+
+    .awalan{
+        display: flex;
+        padding:50px;
+        /* margin:100px     */
+        align-items: center;
+       
+        
+    }
+
+    .gambarheha{
+        height: 100px;
+        width: 200px; 
+        border-radius: 50%;       
+    }
+
+    #kafka{
+        /* display: flex; */
+        justify-content:center ;
+    }
+
+    .ini-pertama{
+    border: 1px;
+    
+    margin:10px;
+    width: 100px;
+    /* display:flex; */
+    justify-content: center;
+    height: px;
+    }
+
+    .img img{
+        height:200px;
+        /* justify-content: center; */
+        width: 250px;
+        border-radius: 50%;
+        /* margin-left:auto */
+        padding-bottom: 20px;
+    }
+
+    .img{
+        display: flex;
+        justify-content:center ;
+    }
+
+    .akuu{
+        display:contents;
+        align-items: center;
+        padding: 200px;
+        display: inline;
+    }
+
+    .akuu img{
+        width: 300px;
+        height: 200px;
+        border-radius:50%;
+        justify-content: center;
+    }
+
+    .kata p{
+        /* margin:200px; */
+        width: 600px;
+    }
+
+
+
+    .pertama{
+        flex-direction: column  ;
+        display: contents;
+        justify-content: center;
+    }
+
+    .gerak img{
+        border-radius: 50%;
+        width: 200px;
+        height: 500px;
+        
+    }
+
+    .gerak{
+        height: 100px;
+    }
+
+    
+    .me img{
+        width: 200px;
+        height: 100px;
+        border-radius:50%;
+        margin:20px
+    }
+
+    .isi ul li a{
+        text-decoration: none;
+        background-color: #7743DB;
+        
+        color:white;
+        border-radius:15px;
+    }
+
+    
+ .isi ul  {
+    display:flex;
+    gap: 1rem;
+    margin:30px;
+    
+}
+
+    .fact{
+        border: 1px;
+    
+    margin:10px;
+    width: 100px;
+    /* display:flex; */
+    justify-content: center;
+    height: px;
+    }
+
+    .momy{
+        width:40px;
+        display: contents;
+    }
+    .momy p{
+        width:600px;
+        
+    }
+
+    .gerak{
+        display: flex;
+        justify-content: center;
+    }
+
+    .gerak img{
+        display: block;
+        height: 100px;
+        
+    }
+
+    .kwdua{
+        display: contents;
+    }
+
+    .basic-attack{
+        /* background-color: lightgray; */
+        width:300px;
+        /* border:  100px solid red; */
+        padding: 10px;
+        /* margin: 10px;   */
+        height: 400px;
+      text-align: center;
+    }
+
+    .basic-attack:hover{
+        /* background-color: lightblue; */
+        width: 300px;
+        /* border:  100px solid red; */
+        padding: 10px;
+        margin: 10px;  
+        /* height: 10px; */
+      transition: 0.5s;
+    }
+    .penjelasan-sa{
+        font-size: small;
+    }
+
+    .momo{
+        display: contents;
+    }
+
+    .ski{
+        /* background-color: lightgray; */
+        width:300px;
+        /* border:  100px solid red; */
+        padding: 5px;
+        margin: 10px;  
+        height: 400px;
+      text-align: center;
+    }
+
+    .ski:hover{
+         /* background-color: lightblue; */
+         width: 300px;
+         /* border:  100px solid red; */
+         padding: 10px;
+         margin: 10px;  
+         /* height: 10px; */
+       transition: 0.5s;
+       text-align: center;
+    }
+
+    .penjelasanro{
+        font-size: small;
+        
+    }
+
+    .ulti{
+         /* background-color: lightgray; */
+         width:300px;
+         /* border:  100px solid red; */
+         padding: 10px;
+         /* margin: 10px;   */
+         height: 400px;
+       text-align: center;
+    }
+
+    .penjelasanult{
+        font-size:small;
+    }
+
+    .ulti:hover{
+        /* background-color: lightblue; */
+        width: 300px;
+        /* border:  100px solid red; */
+        padding: 10px;
+        margin: 10px;  
+        /* height: 10px; */
+      transition: 0.5s;
+      text-align: center;
+    }
+
+    .talent{
+         /* background-color: lightgray; */
+         width:300px;
+         /* border:  100px solid red; */
+         padding: 10px;
+         /* margin: 10px;   */
+         height: 400px;
+       text-align: center;
+    }
+
+    .talen{
+        font-size:small;
+    }
+
+    #skill{
+        padding:10px
+    }
+
+    .talent:hover{
+        /* background-color: lightblue; */
+        width: 300px;
+        /* border:  100px solid red; */
+        padding: 10px;
+        margin: 10px;  
+        /* height: 10px; */
+      transition: 0.5s;
+      text-align: center;
+    }
+
+    .tengah{
+        /* background-color: lightgray; */
+        width:300px;
+        /* border:  100px solid red; */
+        padding: 10px;
+        /* margin: 10px;   */
+        height: 400px;
+      text-align: center;
+    }
+
+    .tengah:hover{
+       /* background-color: lightblue; */
+       width: 300px;
+       /* border:  100px solid red; */
+       padding: 10px;
+       margin: 10px;  
+       /* height: 10px; */
+     transition: 0.5s;
+     text-align: center;
+    }
+
+    .kon{
+        font-size: small;
+    }
+
+    .baru{
+         width: 500px;
+         /* display: flex;
+         justify-content: center; */
+         /* gap:1rem; */
+         background-color: transparent;
+         border-radius: 15px;
+         /* margin:50px */
+         /* padding:10px */
+    }
+
+    .gambarchaarnya{
+        position: relative;
+        width: 150px;
+        
+}
+
+.gambarchaarnya img{
+    height: 200px;
+    width:200px;
+}
+
+.gambarchar{
+    /* background-color: aqua; */
+    /* height: 1000px; */
+}
+
+
+.team{
+    align-items: center;
+    /* margin:50px */
+  
+}
+.kafkaa{
+    display: block;
+  width: 200px ;
+  height: auto;
+  border-radius: 50%;
+  height: 200px;
+}
+
+.text{
+    color: #7743DB;
+    font-size: 15px;
+    position: absolute;
+        top: 50%;
+        left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-weight: bold;
+    
+}
+
+.tex{
+    color: aqua;
+    font-size: 20px;
+    position: absolute;
+        top: 50%;
+        left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+
+.texk{
+   color: coral;
+    font-size: 20px;
+    position: absolute;
+        top: 50%;
+        left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+
+.textt{
+    color: aquamarine;
+     font-size: 20px;
+     position: absolute;
+         top: 50%;
+         left: 50%;
+     transform: translate(-50%, -50%);
+     -ms-transform: translate(-50%, -50%);
+     font-weight: bold;
+ }
+
+.gambarchaarnya:hover .ovrly{
+    opacity: 1;
+}
+.ovrly{
+    position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%; 
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: transparent;
+  border-radius: 50%;
+  
+}
+
+.center{
+    justify-content: center;
+    display: contents;
+}
+ }
+    
+  
+ @media screen and (max-width: 480px){
+
+    .pala{
+        font-size: 20px;
+        height: 30px;
+        width: auto;
+    }
+    #kafka{
+        display: contents;
+        justify-content: center;
+    }
+
+    aside{
+        margin:90px
+    }
+
+    button{
+        height: 50px;
+        width: 150px;
+        border-radius: 15px;
+        background-color: #7743DB;
+        cursor: pointer;
+    }
+    
+    button:hover{
+        background-color: rgb(92, 255, 255);
+    }
+
+    .hehea{
+        align-items: center;
+    }
+
+    .gambarheha{
+        height: 100px;
+        width: 200px; 
+        border-radius: 50%;
+        justify-content: center;      
+    }
+
+    .awalan{
+        display: flex;
+        padding:50px;
+        /* margin:100px     */
+        align-items: center;
+       
+        
+    }
+
+    .ini-pertama{
+    border: 1px;
+    
+    margin:10px;
+    width: 100px;
+    /* display:flex; */
+    justify-content: center;
+    height: px;
+    }
+
+    .img img{
+        height:200px;
+        width: 300px;
+        border-radius: 50%;
+    }
+
+    .akuu{
+        display:contents;
+        align-items: center;
+        padding: 200px;
+        display: inline;
+    }
+
+    .akuu img{
+        width: 200px;
+        height: 100px;
+        border-radius:50%;
+        margin:px
+    }
+
+     .kata p{
+        /* margin:200px; */
+        width:250px;
+    }
+    .pertama{
+        display: contents;
+        justify-content: center;
+    }
+
+    .gerak img{
+        border-radius: 50%;
+        width: 300px;
+        height: 200px;
+    }
+
+    .me img{
+        width: 200px;
+        height: 100px;
+        border-radius:50%;
+        margin:20px;
+        
+    }
+
+    .isi ul li a{
+        text-decoration: none;
+        background-color: #7743DB;
+        
+        color:white;
+        border-radius:15px;
+    }
+
+    
+ .isi ul  {
+    display:flex;
+    gap: 1rem;
+    margin:30px;
+    
+}
+
+    .fact{
+        border: 1px solid;
+    
+    margin:10px;
+    width: 100px;
+    /* display:flex; */
+    justify-content: center;
+    height: px;
+    }
+
+    .momy{
+        width:40px;
+        display: contents;
+    }
+    .momy p{
+        width:200px;
+        
+    }
+
+    .gerak img{
+        display: block;
+        height: 100px;
+    }
+
+    .kwdua{
+        display: contents;
+    }
+
+    .basic-attack{
+        /* background-color: lightgray; */
+        width:300px;
+        /* border:  100px solid red; */
+        padding: 10px;
+        /* margin: 10px;   */
+        height: 400px;
+      text-align: center;
+    }
+
+    .basic-attack:hover{
+        /* background-color: lightblue; */
+        width: 300px;
+        /* border:  100px solid red; */
+        padding: 10px;
+        margin: 10px;  
+        /* height: 10px; */
+      transition: 0.5s;
+    }
+    .penjelasan-sa{
+        font-size: small;
+    }
+
+    .momo{
+        display: contents;
+    }
+
+    .ski{
+        /* background-color: lightgray; */
+        width:300px;
+        /* border:  100px solid red; */
+        padding: 5px;
+        margin: 10px;  
+        height: 400px;
+      text-align: center;
+    }
+
+    .ski:hover{
+         /* background-color: lightblue; */
+         width: 300px;
+         /* border:  100px solid red; */
+         padding: 10px;
+         margin: 10px;  
+         /* height: 10px; */
+       transition: 0.5s;
+       text-align: center;
+    }
+
+    .penjelasanro{
+        font-size: small;
+        
+    }
+
+    .ulti{
+         /* background-color: lightgray; */
+         width:300px;
+         /* border:  100px solid red; */
+         padding: 10px;
+         /* margin: 10px;   */
+         height: 400px;
+       text-align: center;
+    }
+
+    .penjelasanult{
+        font-size:small;
+    }
+
+    .ulti:hover{
+        /* background-color: lightblue; */
+        width: 300px;
+        /* border:  100px solid red; */
+        padding: 10px;
+        margin: 10px;  
+        /* height: 10px; */
+      transition: 0.5s;
+      text-align: center;
+    }
+
+    .talent{
+         /* background-color: lightgray; */
+         width:300px;
+         /* border:  100px solid red; */
+         padding: 10px;
+         /* margin: 10px;   */
+         height: 400px;
+       text-align: center;
+    }
+
+    .talen{
+        font-size:small;
+    }
+
+    #skill{
+        padding:10px
+    }
+
+    .talent:hover{
+        /* background-color: lightblue; */
+        width: 300px;
+        /* border:  100px solid red; */
+        padding: 10px;
+        margin: 10px;  
+        /* height: 10px; */
+      transition: 0.5s;
+      text-align: center;
+    }
+
+    .tengah{
+        /* background-color: lightgray; */
+        width:300px;
+        /* border:  100px solid red; */
+        padding: 10px;
+        /* margin: 10px;   */
+        height: 400px;
+      text-align: center;
+    }
+
+    .tengah:hover{
+       /* background-color: lightblue; */
+       width: 300px;
+       /* border:  100px solid red; */
+       padding: 10px;
+       margin: 10px;  
+       /* height: 10px; */
+     transition: 0.5s;
+     text-align: center;
+    }
+
+    .kon{
+        font-size: small;
+    }
+
+    .baru{
+         width: 10px;
+         /* display: flex;
+         justify-content: center; */
+         /* gap:1rem; */
+         background-color: transparent;
+         border-radius: 15px;
+         /* margin:50px */
+         /* padding:10px */
+    }
+
+    .gambarchaarnya{
+        position: relative;
+        width: 40px;
+        
+}
+
+.gambarchaarnya img{
+    height: 100px;
+    width:100px;
+}
+
+.gambarchar{
+    /* background-color: aqua; */
+    /* height: 1000px; */
+}
+
+
+.team{
+    align-items: center;
+    /* margin:50px */
+  
+}
+.kafkaa{
+    display: block;
+  width: 200px ;
+  height: auto;
+  border-radius: 50%;
+  height: 200px;
+}
+
+.text{
+    color: #7743DB;
+    font-size: 15px;
+    position: absolute;
+        top: 50%;
+        left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-weight: bold;
+    
+}
+
+.tex{
+    color: aqua;
+    font-size: 20px;
+    position: absolute;
+        top: 50%;
+        left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+
+.texk{
+   color: coral;
+    font-size: 20px;
+    position: absolute;
+        top: 50%;
+        left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+
+.textt{
+    color: aquamarine;
+     font-size: 20px;
+     position: absolute;
+         top: 50%;
+         left: 50%;
+     transform: translate(-50%, -50%);
+     -ms-transform: translate(-50%, -50%);
+     font-weight: bold;
+ }
+
+.gambarchaarnya:hover .ovrly{
+    opacity: 1;
+}
+.ovrly{
+    position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%; 
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: transparent;
+  border-radius: 50%;
+  
+}
+
+.center{
+    justify-content: center;
+    display: contents;
+}
+
+ }
+
+
+ 

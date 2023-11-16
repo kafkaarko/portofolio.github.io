@@ -1,0 +1,78 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.ko{
+    background-color: ligh;
+    width:1000px;
+    border:  10px solid white;
+    padding: 10px;
+    margin: 10px;  
+    height: 500px; 
+}
+
+.pala{
+    font-size: bold;
+    height:20px;
+    display: flex;
+    margin:1.5rem;
+    color:blue;
+    color:
+   
+}
+
+
+.pala:hover{
+    color:black
+}
+
+.hea{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section ul li{
+    list-style: none;
+
+}
+
+
+.section ul{
+    display: flex;
+    gap:2rem;
+    margin:2rem;
+   
+    
+}
+.section ul li a{
+    text-decoration: none;
+    color:chartreuse;
+    margin:10px;
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 15px;
+}
+
+.section ul li a:hover{
+    background-color: chartreuse;
+    color:aqua;
+    transition: 0.5s ease-in-out;
+    padding:15px;
+    margin:15px;
+}
+
+aside{
+    background-color: lighy;
+    width:1000px;
+    border:  10px solid white;
+    padding: 10px;
+    margin: 10px;  
+    height: 500px; 
+}
+
+main{
+    display: flex;
+}
